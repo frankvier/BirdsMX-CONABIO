@@ -1,0 +1,182 @@
+estadomapa,ambiente,TOTAL_UNIQUE_ESPECIES,TOTAL_ESPECIES_RECORD
+AGUASCALIENTES,Dulceacuícola,5,442
+AGUASCALIENTES,Dulceacuícola; Marino; Salobre,1,848
+AGUASCALIENTES,Terrestre,119,39716
+BAJA CALIFORNIA,Dulceacuícola,4,1682
+BAJA CALIFORNIA,Dulceacuícola; Marino,1,8918
+BAJA CALIFORNIA,Dulceacuícola; Marino; Salobre,1,314
+BAJA CALIFORNIA,Dulceacuícola; Terrestre,3,584
+BAJA CALIFORNIA,Marino,3,8896
+BAJA CALIFORNIA,Marino; Salobre,4,4514
+BAJA CALIFORNIA,Terrestre,121,264866
+BAJA CALIFORNIA SUR,Dulceacuícola,7,3074
+BAJA CALIFORNIA SUR,Dulceacuícola; Marino,1,5610
+BAJA CALIFORNIA SUR,Dulceacuícola; Marino; Salobre,1,1076
+BAJA CALIFORNIA SUR,Dulceacuícola; Terrestre,2,4686
+BAJA CALIFORNIA SUR,Marino,6,25582
+BAJA CALIFORNIA SUR,Marino; Salobre,6,3860
+BAJA CALIFORNIA SUR,Terrestre,101,260174
+CAMPECHE,Dulceacuícola,23,12550
+CAMPECHE,Dulceacuícola; Marino; Salobre,2,1810
+CAMPECHE,Dulceacuícola; Salobre,1,448
+CAMPECHE,Dulceacuícola; Terrestre,5,2732
+CAMPECHE,Marino,1,2266
+CAMPECHE,Marino; Salobre,3,16
+CAMPECHE,Terrestre,271,257014
+CHIAPAS,Dulceacuícola,25,25700
+CHIAPAS,Dulceacuícola; Marino,1,2
+CHIAPAS,Dulceacuícola; Marino; Salobre,2,6364
+CHIAPAS,Dulceacuícola; Salobre,1,6
+CHIAPAS,Dulceacuícola; Terrestre,5,5086
+CHIAPAS,Marino,2,1568
+CHIAPAS,Marino; Salobre,2,58
+CHIAPAS,Terrestre,577,1136082
+CHIHUAHUA,Dulceacuícola,8,1828
+CHIHUAHUA,Dulceacuícola; Marino; Salobre,1,338
+CHIHUAHUA,Terrestre,195,96556
+CIUDAD DE MEXICO,Dulceacuícola,10,2040
+CIUDAD DE MEXICO,Dulceacuícola; Marino; Salobre,1,280
+CIUDAD DE MEXICO,Dulceacuícola; Salobre,1,2
+CIUDAD DE MEXICO,Dulceacuícola; Terrestre,1,4
+CIUDAD DE MEXICO,Terrestre,214,511798
+COAHUILA DE ZARAGOZA,Dulceacuícola,7,814
+COAHUILA DE ZARAGOZA,Dulceacuícola; Marino; Salobre,1,778
+COAHUILA DE ZARAGOZA,Terrestre,150,83614
+COLIMA,Dulceacuícola,19,6838
+COLIMA,Dulceacuícola; Marino,1,336
+COLIMA,Dulceacuícola; Marino; Salobre,2,2810
+COLIMA,Dulceacuícola; Terrestre,3,984
+COLIMA,Marino,2,2102
+COLIMA,Marino; Salobre,4,800
+COLIMA,Terrestre,243,155642
+DURANGO,Dulceacuícola,8,894
+DURANGO,Dulceacuícola; Marino; Salobre,1,1116
+DURANGO,Terrestre,220,84714
+GUANAJUATO,Dulceacuícola,9,2270
+GUANAJUATO,Dulceacuícola; Marino; Salobre,2,1970
+GUANAJUATO,Dulceacuícola; Salobre,1,4
+GUANAJUATO,Dulceacuícola; Terrestre,1,56
+GUANAJUATO,Terrestre,194,148338
+GUERRERO,Dulceacuícola,23,5282
+GUERRERO,Dulceacuícola; Marino,1,26
+GUERRERO,Dulceacuícola; Marino; Salobre,2,2768
+GUERRERO,Dulceacuícola; Salobre,1,10
+GUERRERO,Dulceacuícola; Terrestre,3,676
+GUERRERO,Marino,2,2890
+GUERRERO,Marino; Salobre,4,1324
+GUERRERO,Terrestre,350,151536
+HIDALGO,Dulceacuícola,11,472
+HIDALGO,Dulceacuícola; Marino; Salobre,2,228
+HIDALGO,Dulceacuícola; Terrestre,1,2
+HIDALGO,Terrestre,283,53986
+JALISCO,Dulceacuícola,20,26050
+JALISCO,Dulceacuícola; Marino,1,3692
+JALISCO,Dulceacuícola; Marino; Salobre,2,14408
+JALISCO,Dulceacuícola; Terrestre,4,1774
+JALISCO,Marino,3,10164
+JALISCO,Marino; Salobre,5,3684
+JALISCO,Terrestre,316,799138
+MEXICO,Dulceacuícola,11,1370
+MEXICO,Dulceacuícola; Marino; Salobre,2,490
+MEXICO,Dulceacuícola; Salobre,1,6
+MEXICO,Dulceacuícola; Terrestre,2,1126
+MEXICO,Terrestre,243,220898
+MICHOACAN DE OCAMPO,Dulceacuícola,19,3438
+MICHOACAN DE OCAMPO,Dulceacuícola; Marino,1,4
+MICHOACAN DE OCAMPO,Dulceacuícola; Marino; Salobre,2,1020
+MICHOACAN DE OCAMPO,Dulceacuícola; Salobre,1,4
+MICHOACAN DE OCAMPO,Dulceacuícola; Terrestre,4,602
+MICHOACAN DE OCAMPO,Marino,1,432
+MICHOACAN DE OCAMPO,Marino; Salobre,4,68
+MICHOACAN DE OCAMPO,Terrestre,309,263570
+MORELOS,Dulceacuícola,10,1458
+MORELOS,Dulceacuícola; Marino; Salobre,2,36
+MORELOS,Terrestre,244,193310
+NAYARIT,Dulceacuícola,20,52310
+NAYARIT,Dulceacuícola; Marino,1,6820
+NAYARIT,Dulceacuícola; Marino; Salobre,2,18152
+NAYARIT,Dulceacuícola; Salobre,1,2
+NAYARIT,Dulceacuícola; Terrestre,4,9086
+NAYARIT,Marino,5,22100
+NAYARIT,Marino; Salobre,5,6662
+NAYARIT,Terrestre,281,747890
+NUEVO LEON,Dulceacuícola,11,9080
+NUEVO LEON,Dulceacuícola; Marino; Salobre,1,2986
+NUEVO LEON,Dulceacuícola; Terrestre,1,2
+NUEVO LEON,Terrestre,198,280744
+OAXACA,Dulceacuícola,25,20690
+OAXACA,Dulceacuícola; Marino,1,2
+OAXACA,Dulceacuícola; Marino; Salobre,2,8752
+OAXACA,Dulceacuícola; Terrestre,5,2984
+OAXACA,Marino,3,6418
+OAXACA,Marino; Salobre,4,812
+OAXACA,Terrestre,576,876122
+PUEBLA,Dulceacuícola,18,844
+PUEBLA,Dulceacuícola; Marino; Salobre,2,186
+PUEBLA,Dulceacuícola; Terrestre,2,12
+PUEBLA,Terrestre,334,86256
+QUERETARO,Dulceacuícola,11,1490
+QUERETARO,Dulceacuícola; Marino; Salobre,1,954
+QUERETARO,Dulceacuícola; Salobre,1,8
+QUERETARO,Terrestre,242,79206
+QUINTANA ROO,Dulceacuícola,25,30518
+QUINTANA ROO,Dulceacuícola; Marino,1,2
+QUINTANA ROO,Dulceacuícola; Marino; Salobre,1,6606
+QUINTANA ROO,Dulceacuícola; Salobre,2,1050
+QUINTANA ROO,Dulceacuícola; Terrestre,4,6720
+QUINTANA ROO,Marino,2,24564
+QUINTANA ROO,Marino; Salobre,4,412
+QUINTANA ROO,Terrestre,281,917870
+SAN LUIS POTOSI,Dulceacuícola,18,2970
+SAN LUIS POTOSI,Dulceacuícola; Marino; Salobre,2,1292
+SAN LUIS POTOSI,Dulceacuícola; Salobre,1,2
+SAN LUIS POTOSI,Dulceacuícola; Terrestre,4,180
+SAN LUIS POTOSI,Terrestre,298,91970
+SINALOA,Dulceacuícola,17,8628
+SINALOA,Dulceacuícola; Marino,1,1520
+SINALOA,Dulceacuícola; Marino; Salobre,2,5270
+SINALOA,Dulceacuícola; Terrestre,4,2458
+SINALOA,Marino,5,5740
+SINALOA,Marino; Salobre,2,1412
+SINALOA,Terrestre,274,248238
+SONORA,Dulceacuícola,11,5546
+SONORA,Dulceacuícola; Marino,1,5802
+SONORA,Dulceacuícola; Marino; Salobre,1,2394
+SONORA,Dulceacuícola; Terrestre,2,1552
+SONORA,Marino,3,9614
+SONORA,Marino; Salobre,6,3202
+SONORA,Terrestre,234,313768
+TABASCO,Dulceacuícola,25,14946
+TABASCO,Dulceacuícola; Marino; Salobre,2,4012
+TABASCO,Dulceacuícola; Terrestre,5,2492
+TABASCO,Marino,1,414
+TABASCO,Marino; Salobre,1,2
+TABASCO,Terrestre,300,142930
+TAMAULIPAS,Dulceacuícola,17,8842
+TAMAULIPAS,Dulceacuícola; Marino; Salobre,1,2300
+TAMAULIPAS,Dulceacuícola; Salobre,1,4
+TAMAULIPAS,Dulceacuícola; Terrestre,4,688
+TAMAULIPAS,Marino,1,280
+TAMAULIPAS,Marino; Salobre,2,24
+TAMAULIPAS,Terrestre,293,169760
+TLAXCALA,Dulceacuícola,3,10
+TLAXCALA,Dulceacuícola; Marino; Salobre,1,26
+TLAXCALA,Terrestre,128,13938
+VERACRUZ DE IGNACIO DE LA LLAVE,Dulceacuícola,32,80596
+VERACRUZ DE IGNACIO DE LA LLAVE,Dulceacuícola; Marino; Salobre,2,17086
+VERACRUZ DE IGNACIO DE LA LLAVE,Dulceacuícola; Salobre,2,92
+VERACRUZ DE IGNACIO DE LA LLAVE,Dulceacuícola; Terrestre,8,8538
+VERACRUZ DE IGNACIO DE LA LLAVE,Marino,2,7744
+VERACRUZ DE IGNACIO DE LA LLAVE,Marino; Salobre,2,36
+VERACRUZ DE IGNACIO DE LA LLAVE,Terrestre,513,1245570
+YUCATAN,Dulceacuícola,19,24098
+YUCATAN,Dulceacuícola; Marino; Salobre,1,6156
+YUCATAN,Dulceacuícola; Salobre,1,9224
+YUCATAN,Dulceacuícola; Terrestre,3,6560
+YUCATAN,Marino,2,10198
+YUCATAN,Marino; Salobre,4,220
+YUCATAN,Terrestre,219,800512
+ZACATECAS,Dulceacuícola,4,34
+ZACATECAS,Dulceacuícola; Marino; Salobre,1,28
+ZACATECAS,Marino; Salobre,1,2
+ZACATECAS,Terrestre,244,13582

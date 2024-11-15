@@ -1,0 +1,9 @@
+ambiente,TOTAL_UNIQUE_ESPECIES,TOTAL_RECORD_VALIDACION_AMBIENTE
+Terrestre,832,10790170
+Dulceacuícola,38,357506
+Dulceacuícola; Terrestre,11,60528
+Marino; Salobre,9,42674
+Marino,7,157416
+Dulceacuícola; Marino; Salobre,2,113684
+Dulceacuícola; Salobre,2,11562
+Dulceacuícola; Marino,1,39808

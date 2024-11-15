@@ -1,0 +1,547 @@
+estadomapa,categoriaresidenciaaves,TOTAL_RECORDS
+AGUASCALIENTES,Migratoria de invierno (MI),8810
+AGUASCALIENTES,Migratoria de invierno (MI); Migratoria de verano (MV),448
+AGUASCALIENTES,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),62
+AGUASCALIENTES,Migratoria de invierno (MI); Transitoria (T),66
+AGUASCALIENTES,Migratoria de verano (MV),4
+AGUASCALIENTES,Migratoria de verano (MV); Transitoria (T),460
+AGUASCALIENTES,Residente (R),41006
+AGUASCALIENTES,Residente (R); Migratoria de invierno (MI),32610
+AGUASCALIENTES,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),2144
+AGUASCALIENTES,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),1778
+AGUASCALIENTES,Residente (R); Migratoria de invierno (MI); Transitoria (T),336
+AGUASCALIENTES,Residente (R); Migratoria de verano (MV),620
+AGUASCALIENTES,Residente (R); Transitoria (T),6
+AGUASCALIENTES,Transitoria (T),78
+BAJA CALIFORNIA,Accidental (A),378
+BAJA CALIFORNIA,Accidental (A); Oceánica (O),16
+BAJA CALIFORNIA,Migratoria de invierno (MI),208166
+BAJA CALIFORNIA,Migratoria de invierno (MI); Migratoria de verano (MV),7156
+BAJA CALIFORNIA,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),3166
+BAJA CALIFORNIA,Migratoria de invierno (MI); Oceánica (O),104
+BAJA CALIFORNIA,Migratoria de invierno (MI); Transitoria (T),7604
+BAJA CALIFORNIA,Migratoria de invierno (MI); Transitoria (T); Oceánica (O),104
+BAJA CALIFORNIA,Migratoria de verano (MV),62
+BAJA CALIFORNIA,Migratoria de verano (MV); Transitoria (T),5878
+BAJA CALIFORNIA,Residente (R),289832
+BAJA CALIFORNIA,Residente (R); Migratoria de invierno (MI),469464
+BAJA CALIFORNIA,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),17536
+BAJA CALIFORNIA,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),5780
+BAJA CALIFORNIA,Residente (R); Migratoria de invierno (MI); Oceánica (O),44
+BAJA CALIFORNIA,Residente (R); Migratoria de invierno (MI); Transitoria (T),5266
+BAJA CALIFORNIA,Residente (R); Migratoria de verano (MV),544
+BAJA CALIFORNIA,Residente (R); Oceánica (O),842
+BAJA CALIFORNIA,Residente (R); Transitoria (T),410
+BAJA CALIFORNIA,Residente (R); Transitoria (T); Oceánica (O),58
+BAJA CALIFORNIA,Transitoria (T),2136
+BAJA CALIFORNIA,Transitoria (T); Oceánica (O),776
+BAJA CALIFORNIA SUR,Accidental (A),230
+BAJA CALIFORNIA SUR,Accidental (A); Oceánica (O),6
+BAJA CALIFORNIA SUR,Migratoria de invierno (MI),173500
+BAJA CALIFORNIA SUR,Migratoria de invierno (MI); Migratoria de verano (MV),7706
+BAJA CALIFORNIA SUR,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),592
+BAJA CALIFORNIA SUR,Migratoria de invierno (MI); Oceánica (O),40
+BAJA CALIFORNIA SUR,Migratoria de invierno (MI); Transitoria (T),8634
+BAJA CALIFORNIA SUR,Migratoria de invierno (MI); Transitoria (T); Oceánica (O),266
+BAJA CALIFORNIA SUR,Migratoria de verano (MV),14
+BAJA CALIFORNIA SUR,Migratoria de verano (MV); Transitoria (T),1408
+BAJA CALIFORNIA SUR,Residente (R),305566
+BAJA CALIFORNIA SUR,Residente (R); Migratoria de invierno (MI),394252
+BAJA CALIFORNIA SUR,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),47678
+BAJA CALIFORNIA SUR,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),6428
+BAJA CALIFORNIA SUR,Residente (R); Migratoria de invierno (MI); Oceánica (O),138
+BAJA CALIFORNIA SUR,Residente (R); Migratoria de invierno (MI); Transitoria (T),1854
+BAJA CALIFORNIA SUR,Residente (R); Migratoria de verano (MV),2334
+BAJA CALIFORNIA SUR,Residente (R); Oceánica (O),1192
+BAJA CALIFORNIA SUR,Residente (R); Transitoria (T),80
+BAJA CALIFORNIA SUR,Residente (R); Transitoria (T); Oceánica (O),34
+BAJA CALIFORNIA SUR,Transitoria (T),554
+BAJA CALIFORNIA SUR,Transitoria (T); Oceánica (O),778
+CAMPECHE,Accidental (A),86
+CAMPECHE,Migratoria de invierno (MI),52818
+CAMPECHE,Migratoria de invierno (MI); Migratoria de verano (MV),5876
+CAMPECHE,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),416
+CAMPECHE,Migratoria de invierno (MI); Transitoria (T),3424
+CAMPECHE,Migratoria de invierno (MI); Transitoria (T); Oceánica (O),2
+CAMPECHE,Migratoria de verano (MV),1972
+CAMPECHE,Migratoria de verano (MV); Transitoria (T),820
+CAMPECHE,Residente (R),276926
+CAMPECHE,Residente (R); Migratoria de invierno (MI),64166
+CAMPECHE,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),4214
+CAMPECHE,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),5378
+CAMPECHE,Residente (R); Migratoria de invierno (MI); Oceánica (O),4
+CAMPECHE,Residente (R); Migratoria de invierno (MI); Transitoria (T),296
+CAMPECHE,Residente (R); Migratoria de verano (MV),5266
+CAMPECHE,Residente (R); Transitoria (T),586
+CAMPECHE,Transitoria (T),1576
+CAMPECHE,Transitoria (T); Oceánica (O),18
+CHIAPAS,Accidental (A),214
+CHIAPAS,Accidental (A); Oceánica (O),4
+CHIAPAS,Migratoria de invierno (MI),188446
+CHIAPAS,Migratoria de invierno (MI); Migratoria de verano (MV),19124
+CHIAPAS,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),4202
+CHIAPAS,Migratoria de invierno (MI); Transitoria (T),21074
+CHIAPAS,Migratoria de verano (MV),8606
+CHIAPAS,Migratoria de verano (MV); Transitoria (T),3876
+CHIAPAS,Residente (R),1175104
+CHIAPAS,Residente (R); Migratoria de invierno (MI),129396
+CHIAPAS,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),7210
+CHIAPAS,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),10768
+CHIAPAS,Residente (R); Migratoria de invierno (MI); Transitoria (T),12334
+CHIAPAS,Residente (R); Migratoria de verano (MV),18338
+CHIAPAS,Residente (R); Oceánica (O),2
+CHIAPAS,Residente (R); Transitoria (T),3228
+CHIAPAS,Residente (R); Transitoria (T); Oceánica (O),2
+CHIAPAS,Transitoria (T),7140
+CHIAPAS,Transitoria (T); Oceánica (O),6
+CHIHUAHUA,Accidental (A),16
+CHIHUAHUA,Migratoria de invierno (MI),45088
+CHIHUAHUA,Migratoria de invierno (MI); Migratoria de verano (MV),4956
+CHIHUAHUA,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),1584
+CHIHUAHUA,Migratoria de invierno (MI); Transitoria (T),552
+CHIHUAHUA,Migratoria de verano (MV),184
+CHIHUAHUA,Migratoria de verano (MV); Transitoria (T),2348
+CHIHUAHUA,Residente (R),98722
+CHIHUAHUA,Residente (R); Migratoria de invierno (MI),107962
+CHIHUAHUA,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),6564
+CHIHUAHUA,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),3362
+CHIHUAHUA,Residente (R); Migratoria de invierno (MI); Transitoria (T),914
+CHIHUAHUA,Residente (R); Migratoria de verano (MV),2224
+CHIHUAHUA,Residente (R); Transitoria (T),10
+CHIHUAHUA,Transitoria (T),282
+CHIHUAHUA,Transitoria (T); Oceánica (O),2
+CIUDAD DE MEXICO,Accidental (A),4
+CIUDAD DE MEXICO,Migratoria de invierno (MI),114530
+CIUDAD DE MEXICO,Migratoria de invierno (MI); Migratoria de verano (MV),12678
+CIUDAD DE MEXICO,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),1106
+CIUDAD DE MEXICO,Migratoria de invierno (MI); Transitoria (T),3362
+CIUDAD DE MEXICO,Migratoria de verano (MV),34
+CIUDAD DE MEXICO,Migratoria de verano (MV); Transitoria (T),2602
+CIUDAD DE MEXICO,Residente (R),514124
+CIUDAD DE MEXICO,Residente (R); Migratoria de invierno (MI),275860
+CIUDAD DE MEXICO,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),33936
+CIUDAD DE MEXICO,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),14414
+CIUDAD DE MEXICO,Residente (R); Migratoria de invierno (MI); Transitoria (T),5086
+CIUDAD DE MEXICO,Residente (R); Migratoria de verano (MV),10542
+CIUDAD DE MEXICO,Residente (R); Transitoria (T),2110
+CIUDAD DE MEXICO,Transitoria (T),670
+COAHUILA DE ZARAGOZA,Accidental (A),26
+COAHUILA DE ZARAGOZA,Migratoria de invierno (MI),19764
+COAHUILA DE ZARAGOZA,Migratoria de invierno (MI); Migratoria de verano (MV),3418
+COAHUILA DE ZARAGOZA,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),904
+COAHUILA DE ZARAGOZA,Migratoria de invierno (MI); Transitoria (T),554
+COAHUILA DE ZARAGOZA,Migratoria de verano (MV); Transitoria (T),1000
+COAHUILA DE ZARAGOZA,Residente (R),85206
+COAHUILA DE ZARAGOZA,Residente (R); Migratoria de invierno (MI),69094
+COAHUILA DE ZARAGOZA,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),5152
+COAHUILA DE ZARAGOZA,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),2828
+COAHUILA DE ZARAGOZA,Residente (R); Migratoria de invierno (MI); Transitoria (T),538
+COAHUILA DE ZARAGOZA,Residente (R); Migratoria de verano (MV),1784
+COAHUILA DE ZARAGOZA,Transitoria (T),194
+COLIMA,Accidental (A),8
+COLIMA,Migratoria de invierno (MI),21236
+COLIMA,Migratoria de invierno (MI); Migratoria de verano (MV),9270
+COLIMA,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),416
+COLIMA,Migratoria de invierno (MI); Transitoria (T),1292
+COLIMA,Migratoria de invierno (MI); Transitoria (T); Oceánica (O),8
+COLIMA,Migratoria de verano (MV),900
+COLIMA,Migratoria de verano (MV); Transitoria (T),182
+COLIMA,Residente (R),169566
+COLIMA,Residente (R); Migratoria de invierno (MI),52710
+COLIMA,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),7104
+COLIMA,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),5836
+COLIMA,Residente (R); Migratoria de invierno (MI); Oceánica (O),8
+COLIMA,Residente (R); Migratoria de invierno (MI); Transitoria (T),568
+COLIMA,Residente (R); Migratoria de verano (MV),5600
+COLIMA,Residente (R); Oceánica (O),182
+COLIMA,Residente (R); Transitoria (T),152
+COLIMA,Residente (R); Transitoria (T); Oceánica (O),10
+COLIMA,Transitoria (T),68
+COLIMA,Transitoria (T); Oceánica (O),22
+DURANGO,Accidental (A),40
+DURANGO,Migratoria de invierno (MI),38106
+DURANGO,Migratoria de invierno (MI); Migratoria de verano (MV),2572
+DURANGO,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),470
+DURANGO,Migratoria de invierno (MI); Transitoria (T),1310
+DURANGO,Migratoria de verano (MV),52
+DURANGO,Migratoria de verano (MV); Transitoria (T),954
+DURANGO,Residente (R),86724
+DURANGO,Residente (R); Migratoria de invierno (MI),84756
+DURANGO,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),6030
+DURANGO,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),2230
+DURANGO,Residente (R); Migratoria de invierno (MI); Transitoria (T),1582
+DURANGO,Residente (R); Migratoria de verano (MV),2160
+DURANGO,Residente (R); Transitoria (T),42
+DURANGO,Transitoria (T),326
+GUANAJUATO,Migratoria de invierno (MI),40618
+GUANAJUATO,Migratoria de invierno (MI); Migratoria de verano (MV),2400
+GUANAJUATO,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),172
+GUANAJUATO,Migratoria de invierno (MI); Transitoria (T),1440
+GUANAJUATO,Migratoria de verano (MV),72
+GUANAJUATO,Migratoria de verano (MV); Transitoria (T),672
+GUANAJUATO,Residente (R),152642
+GUANAJUATO,Residente (R); Migratoria de invierno (MI),128560
+GUANAJUATO,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),9546
+GUANAJUATO,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),5304
+GUANAJUATO,Residente (R); Migratoria de invierno (MI); Transitoria (T),1676
+GUANAJUATO,Residente (R); Migratoria de verano (MV),2880
+GUANAJUATO,Residente (R); Transitoria (T),12
+GUANAJUATO,Transitoria (T),254
+GUERRERO,Migratoria de invierno (MI),22242
+GUERRERO,Migratoria de invierno (MI); Migratoria de verano (MV),7266
+GUERRERO,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),706
+GUERRERO,Migratoria de invierno (MI); Transitoria (T),2058
+GUERRERO,Migratoria de invierno (MI); Transitoria (T); Oceánica (O),6
+GUERRERO,Migratoria de verano (MV),884
+GUERRERO,Migratoria de verano (MV); Transitoria (T),758
+GUERRERO,Residente (R),164562
+GUERRERO,Residente (R); Migratoria de invierno (MI),47516
+GUERRERO,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),7056
+GUERRERO,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),3378
+GUERRERO,Residente (R); Migratoria de invierno (MI); Oceánica (O),8
+GUERRERO,Residente (R); Migratoria de invierno (MI); Transitoria (T),416
+GUERRERO,Residente (R); Migratoria de verano (MV),6568
+GUERRERO,Residente (R); Oceánica (O),60
+GUERRERO,Residente (R); Transitoria (T),340
+GUERRERO,Residente (R); Transitoria (T); Oceánica (O),4
+GUERRERO,Transitoria (T),238
+GUERRERO,Transitoria (T); Oceánica (O),22
+HIDALGO,Migratoria de invierno (MI),8680
+HIDALGO,Migratoria de invierno (MI); Migratoria de verano (MV),586
+HIDALGO,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),96
+HIDALGO,Migratoria de invierno (MI); Transitoria (T),300
+HIDALGO,Migratoria de verano (MV),154
+HIDALGO,Migratoria de verano (MV); Transitoria (T),240
+HIDALGO,Residente (R),54690
+HIDALGO,Residente (R); Migratoria de invierno (MI),28326
+HIDALGO,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),2804
+HIDALGO,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),1676
+HIDALGO,Residente (R); Migratoria de invierno (MI); Transitoria (T),416
+HIDALGO,Residente (R); Migratoria de verano (MV),1064
+HIDALGO,Residente (R); Transitoria (T),114
+HIDALGO,Transitoria (T),124
+JALISCO,Accidental (A),8
+JALISCO,Migratoria de invierno (MI),143042
+JALISCO,Migratoria de invierno (MI); Migratoria de verano (MV),33118
+JALISCO,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),1912
+JALISCO,Migratoria de invierno (MI); Transitoria (T),4980
+JALISCO,Migratoria de invierno (MI); Transitoria (T); Oceánica (O),16
+JALISCO,Migratoria de verano (MV),3666
+JALISCO,Migratoria de verano (MV); Transitoria (T),2706
+JALISCO,Residente (R),859638
+JALISCO,Residente (R); Migratoria de invierno (MI),362964
+JALISCO,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),48338
+JALISCO,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),26360
+JALISCO,Residente (R); Migratoria de invierno (MI); Oceánica (O),50
+JALISCO,Residente (R); Migratoria de invierno (MI); Transitoria (T),5056
+JALISCO,Residente (R); Migratoria de verano (MV),29726
+JALISCO,Residente (R); Oceánica (O),138
+JALISCO,Residente (R); Transitoria (T),1216
+JALISCO,Residente (R); Transitoria (T); Oceánica (O),6
+JALISCO,Transitoria (T),360
+JALISCO,Transitoria (T); Oceánica (O),50
+MEXICO,Accidental (A),2
+MEXICO,Migratoria de invierno (MI),50068
+MEXICO,Migratoria de invierno (MI); Migratoria de verano (MV),4140
+MEXICO,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),630
+MEXICO,Migratoria de invierno (MI); Transitoria (T),2464
+MEXICO,Migratoria de verano (MV),58
+MEXICO,Migratoria de verano (MV); Transitoria (T),1632
+MEXICO,Residente (R),223896
+MEXICO,Residente (R); Migratoria de invierno (MI),155758
+MEXICO,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),16498
+MEXICO,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),8186
+MEXICO,Residente (R); Migratoria de invierno (MI); Transitoria (T),2372
+MEXICO,Residente (R); Migratoria de verano (MV),5474
+MEXICO,Residente (R); Transitoria (T),768
+MEXICO,Transitoria (T),976
+MICHOACAN DE OCAMPO,Migratoria de invierno (MI),47550
+MICHOACAN DE OCAMPO,Migratoria de invierno (MI); Migratoria de verano (MV),8542
+MICHOACAN DE OCAMPO,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),946
+MICHOACAN DE OCAMPO,Migratoria de invierno (MI); Transitoria (T),1612
+MICHOACAN DE OCAMPO,Migratoria de invierno (MI); Transitoria (T); Oceánica (O),2
+MICHOACAN DE OCAMPO,Migratoria de verano (MV),356
+MICHOACAN DE OCAMPO,Migratoria de verano (MV); Transitoria (T),1596
+MICHOACAN DE OCAMPO,Residente (R),269142
+MICHOACAN DE OCAMPO,Residente (R); Migratoria de invierno (MI),126250
+MICHOACAN DE OCAMPO,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),20262
+MICHOACAN DE OCAMPO,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),6742
+MICHOACAN DE OCAMPO,Residente (R); Migratoria de invierno (MI); Transitoria (T),2762
+MICHOACAN DE OCAMPO,Residente (R); Migratoria de verano (MV),6580
+MICHOACAN DE OCAMPO,Residente (R); Oceánica (O),10
+MICHOACAN DE OCAMPO,Residente (R); Transitoria (T),316
+MICHOACAN DE OCAMPO,Residente (R); Transitoria (T); Oceánica (O),2
+MICHOACAN DE OCAMPO,Transitoria (T),210
+MICHOACAN DE OCAMPO,Transitoria (T); Oceánica (O),10
+MORELOS,Migratoria de invierno (MI),25730
+MORELOS,Migratoria de invierno (MI); Migratoria de verano (MV),5368
+MORELOS,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),736
+MORELOS,Migratoria de invierno (MI); Transitoria (T),1084
+MORELOS,Migratoria de verano (MV),690
+MORELOS,Migratoria de verano (MV); Transitoria (T),948
+MORELOS,Residente (R),194804
+MORELOS,Residente (R); Migratoria de invierno (MI),38638
+MORELOS,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),10458
+MORELOS,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),5646
+MORELOS,Residente (R); Migratoria de invierno (MI); Transitoria (T),1370
+MORELOS,Residente (R); Migratoria de verano (MV),4914
+MORELOS,Residente (R); Transitoria (T),620
+MORELOS,Transitoria (T),82
+NAYARIT,Accidental (A),50
+NAYARIT,Migratoria de invierno (MI),169546
+NAYARIT,Migratoria de invierno (MI); Migratoria de verano (MV),44256
+NAYARIT,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),980
+NAYARIT,Migratoria de invierno (MI); Transitoria (T),11140
+NAYARIT,Migratoria de invierno (MI); Transitoria (T); Oceánica (O),6
+NAYARIT,Migratoria de verano (MV),2542
+NAYARIT,Migratoria de verano (MV); Transitoria (T),1624
+NAYARIT,Residente (R),864536
+NAYARIT,Residente (R); Migratoria de invierno (MI),370588
+NAYARIT,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),45292
+NAYARIT,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),27446
+NAYARIT,Residente (R); Migratoria de invierno (MI); Oceánica (O),58
+NAYARIT,Residente (R); Migratoria de invierno (MI); Transitoria (T),2478
+NAYARIT,Residente (R); Migratoria de verano (MV),34374
+NAYARIT,Residente (R); Oceánica (O),152
+NAYARIT,Residente (R); Transitoria (T),1780
+NAYARIT,Residente (R); Transitoria (T); Oceánica (O),8
+NAYARIT,Transitoria (T),414
+NAYARIT,Transitoria (T); Oceánica (O),14
+NUEVO LEON,Accidental (A),134
+NUEVO LEON,Migratoria de invierno (MI),51496
+NUEVO LEON,Migratoria de invierno (MI); Migratoria de verano (MV),4416
+NUEVO LEON,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),3030
+NUEVO LEON,Migratoria de invierno (MI); Transitoria (T),2072
+NUEVO LEON,Migratoria de verano (MV),2920
+NUEVO LEON,Migratoria de verano (MV); Transitoria (T),2508
+NUEVO LEON,Residente (R),292812
+NUEVO LEON,Residente (R); Migratoria de invierno (MI),129604
+NUEVO LEON,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),9948
+NUEVO LEON,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),5116
+NUEVO LEON,Residente (R); Migratoria de invierno (MI); Transitoria (T),3740
+NUEVO LEON,Residente (R); Migratoria de verano (MV),11532
+NUEVO LEON,Residente (R); Transitoria (T),4
+NUEVO LEON,Transitoria (T),756
+OAXACA,Accidental (A),32
+OAXACA,Migratoria de invierno (MI),142720
+OAXACA,Migratoria de invierno (MI); Migratoria de verano (MV),26166
+OAXACA,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),7146
+OAXACA,Migratoria de invierno (MI); Transitoria (T),16014
+OAXACA,Migratoria de invierno (MI); Transitoria (T); Oceánica (O),56
+OAXACA,Migratoria de verano (MV),3474
+OAXACA,Migratoria de verano (MV); Transitoria (T),5376
+OAXACA,Residente (R),916428
+OAXACA,Residente (R); Migratoria de invierno (MI),264932
+OAXACA,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),33006
+OAXACA,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),10378
+OAXACA,Residente (R); Migratoria de invierno (MI); Oceánica (O),54
+OAXACA,Residente (R); Migratoria de invierno (MI); Transitoria (T),3812
+OAXACA,Residente (R); Migratoria de verano (MV),21440
+OAXACA,Residente (R); Oceánica (O),280
+OAXACA,Residente (R); Transitoria (T),1126
+OAXACA,Residente (R); Transitoria (T); Oceánica (O),156
+OAXACA,Transitoria (T),2300
+OAXACA,Transitoria (T); Oceánica (O),166
+PUEBLA,Accidental (A),4
+PUEBLA,Migratoria de invierno (MI),14100
+PUEBLA,Migratoria de invierno (MI); Migratoria de verano (MV),1496
+PUEBLA,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),208
+PUEBLA,Migratoria de invierno (MI); Transitoria (T),726
+PUEBLA,Migratoria de verano (MV),284
+PUEBLA,Migratoria de verano (MV); Transitoria (T),482
+PUEBLA,Residente (R),87298
+PUEBLA,Residente (R); Migratoria de invierno (MI),41970
+PUEBLA,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),5178
+PUEBLA,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),3070
+PUEBLA,Residente (R); Migratoria de invierno (MI); Transitoria (T),628
+PUEBLA,Residente (R); Migratoria de verano (MV),1924
+PUEBLA,Residente (R); Transitoria (T),98
+PUEBLA,Transitoria (T),206
+QUERETARO,Migratoria de invierno (MI),20892
+QUERETARO,Migratoria de invierno (MI); Migratoria de verano (MV),1144
+QUERETARO,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),198
+QUERETARO,Migratoria de invierno (MI); Transitoria (T),980
+QUERETARO,Migratoria de verano (MV),184
+QUERETARO,Migratoria de verano (MV); Transitoria (T),504
+QUERETARO,Residente (R),81662
+QUERETARO,Residente (R); Migratoria de invierno (MI),59848
+QUERETARO,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),4470
+QUERETARO,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),2730
+QUERETARO,Residente (R); Migratoria de invierno (MI); Oceánica (O),6
+QUERETARO,Residente (R); Migratoria de invierno (MI); Transitoria (T),870
+QUERETARO,Residente (R); Migratoria de verano (MV),1462
+QUERETARO,Residente (R); Transitoria (T),74
+QUERETARO,Transitoria (T),420
+QUINTANA ROO,Accidental (A),74
+QUINTANA ROO,Accidental (A); Oceánica (O),32
+QUINTANA ROO,Migratoria de invierno (MI),191426
+QUINTANA ROO,Migratoria de invierno (MI); Migratoria de verano (MV),16818
+QUINTANA ROO,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),764
+QUINTANA ROO,Migratoria de invierno (MI); Transitoria (T),7666
+QUINTANA ROO,Migratoria de invierno (MI); Transitoria (T); Oceánica (O),14
+QUINTANA ROO,Migratoria de verano (MV),6698
+QUINTANA ROO,Migratoria de verano (MV); Transitoria (T),3360
+QUINTANA ROO,Residente (R),988640
+QUINTANA ROO,Residente (R); Migratoria de invierno (MI),219952
+QUINTANA ROO,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),31368
+QUINTANA ROO,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),25980
+QUINTANA ROO,Residente (R); Migratoria de invierno (MI); Oceánica (O),304
+QUINTANA ROO,Residente (R); Migratoria de invierno (MI); Transitoria (T),1464
+QUINTANA ROO,Residente (R); Migratoria de verano (MV),17180
+QUINTANA ROO,Residente (R); Transitoria (T),9938
+QUINTANA ROO,Transitoria (T),7712
+QUINTANA ROO,Transitoria (T); Oceánica (O),18
+SAN LUIS POTOSI,Accidental (A),4
+SAN LUIS POTOSI,Migratoria de invierno (MI),17490
+SAN LUIS POTOSI,Migratoria de invierno (MI); Migratoria de verano (MV),1304
+SAN LUIS POTOSI,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),204
+SAN LUIS POTOSI,Migratoria de invierno (MI); Transitoria (T),840
+SAN LUIS POTOSI,Migratoria de verano (MV),712
+SAN LUIS POTOSI,Migratoria de verano (MV); Transitoria (T),426
+SAN LUIS POTOSI,Residente (R),96414
+SAN LUIS POTOSI,Residente (R); Migratoria de invierno (MI),34578
+SAN LUIS POTOSI,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),3520
+SAN LUIS POTOSI,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),1020
+SAN LUIS POTOSI,Residente (R); Migratoria de invierno (MI); Transitoria (T),790
+SAN LUIS POTOSI,Residente (R); Migratoria de verano (MV),2224
+SAN LUIS POTOSI,Residente (R); Transitoria (T),118
+SAN LUIS POTOSI,Transitoria (T),300
+SINALOA,Accidental (A),2
+SINALOA,Migratoria de invierno (MI),50962
+SINALOA,Migratoria de invierno (MI); Migratoria de verano (MV),10416
+SINALOA,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),340
+SINALOA,Migratoria de invierno (MI); Oceánica (O),2
+SINALOA,Migratoria de invierno (MI); Transitoria (T),2232
+SINALOA,Migratoria de invierno (MI); Transitoria (T); Oceánica (O),4
+SINALOA,Migratoria de verano (MV),1180
+SINALOA,Migratoria de verano (MV); Transitoria (T),1160
+SINALOA,Residente (R),273540
+SINALOA,Residente (R); Migratoria de invierno (MI),133288
+SINALOA,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),14486
+SINALOA,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),4904
+SINALOA,Residente (R); Migratoria de invierno (MI); Oceánica (O),10
+SINALOA,Residente (R); Migratoria de invierno (MI); Transitoria (T),1820
+SINALOA,Residente (R); Migratoria de verano (MV),9838
+SINALOA,Residente (R); Oceánica (O),164
+SINALOA,Residente (R); Transitoria (T),186
+SINALOA,Transitoria (T),204
+SINALOA,Transitoria (T); Oceánica (O),26
+SONORA,Accidental (A),84
+SONORA,Migratoria de invierno (MI),122436
+SONORA,Migratoria de invierno (MI); Migratoria de verano (MV),16528
+SONORA,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),3580
+SONORA,Migratoria de invierno (MI); Oceánica (O),2
+SONORA,Migratoria de invierno (MI); Transitoria (T),4512
+SONORA,Migratoria de invierno (MI); Transitoria (T); Oceánica (O),16
+SONORA,Migratoria de verano (MV),1606
+SONORA,Migratoria de verano (MV); Transitoria (T),5328
+SONORA,Residente (R),342230
+SONORA,Residente (R); Migratoria de invierno (MI),273276
+SONORA,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),24240
+SONORA,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),4306
+SONORA,Residente (R); Migratoria de invierno (MI); Oceánica (O),114
+SONORA,Residente (R); Migratoria de invierno (MI); Transitoria (T),2910
+SONORA,Residente (R); Migratoria de verano (MV),11686
+SONORA,Residente (R); Oceánica (O),432
+SONORA,Residente (R); Transitoria (T),224
+SONORA,Transitoria (T),208
+SONORA,Transitoria (T); Oceánica (O),76
+TABASCO,Accidental (A),6
+TABASCO,Migratoria de invierno (MI),21678
+TABASCO,Migratoria de invierno (MI); Migratoria de verano (MV),3652
+TABASCO,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),410
+TABASCO,Migratoria de invierno (MI); Transitoria (T),1604
+TABASCO,Migratoria de verano (MV),436
+TABASCO,Migratoria de verano (MV); Transitoria (T),314
+TABASCO,Residente (R),164810
+TABASCO,Residente (R); Migratoria de invierno (MI),49292
+TABASCO,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),1844
+TABASCO,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),5324
+TABASCO,Residente (R); Migratoria de invierno (MI); Transitoria (T),424
+TABASCO,Residente (R); Migratoria de verano (MV),1398
+TABASCO,Residente (R); Transitoria (T),84
+TABASCO,Transitoria (T),1684
+TABASCO,Transitoria (T); Oceánica (O),8
+TAMAULIPAS,Accidental (A),42
+TAMAULIPAS,Migratoria de invierno (MI),40408
+TAMAULIPAS,Migratoria de invierno (MI); Migratoria de verano (MV),2678
+TAMAULIPAS,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),1450
+TAMAULIPAS,Migratoria de invierno (MI); Transitoria (T),2694
+TAMAULIPAS,Migratoria de invierno (MI); Transitoria (T); Oceánica (O),6
+TAMAULIPAS,Migratoria de verano (MV),1136
+TAMAULIPAS,Migratoria de verano (MV); Transitoria (T),1558
+TAMAULIPAS,Residente (R),181918
+TAMAULIPAS,Residente (R); Migratoria de invierno (MI),71764
+TAMAULIPAS,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),3920
+TAMAULIPAS,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),1486
+TAMAULIPAS,Residente (R); Migratoria de invierno (MI); Oceánica (O),24
+TAMAULIPAS,Residente (R); Migratoria de invierno (MI); Transitoria (T),1538
+TAMAULIPAS,Residente (R); Migratoria de verano (MV),5376
+TAMAULIPAS,Residente (R); Transitoria (T),722
+TAMAULIPAS,Transitoria (T),1176
+TLAXCALA,Migratoria de invierno (MI),3924
+TLAXCALA,Migratoria de invierno (MI); Migratoria de verano (MV),164
+TLAXCALA,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),42
+TLAXCALA,Migratoria de invierno (MI); Transitoria (T),126
+TLAXCALA,Migratoria de verano (MV); Transitoria (T),58
+TLAXCALA,Residente (R),13974
+TLAXCALA,Residente (R); Migratoria de invierno (MI),14658
+TLAXCALA,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),1422
+TLAXCALA,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),590
+TLAXCALA,Residente (R); Migratoria de invierno (MI); Transitoria (T),206
+TLAXCALA,Residente (R); Migratoria de verano (MV),266
+TLAXCALA,Residente (R); Transitoria (T),12
+TLAXCALA,Transitoria (T),80
+VERACRUZ DE IGNACIO DE LA LLAVE,Accidental (A),82
+VERACRUZ DE IGNACIO DE LA LLAVE,Accidental (A); Oceánica (O),2
+VERACRUZ DE IGNACIO DE LA LLAVE,Migratoria de invierno (MI),268734
+VERACRUZ DE IGNACIO DE LA LLAVE,Migratoria de invierno (MI); Migratoria de verano (MV),34304
+VERACRUZ DE IGNACIO DE LA LLAVE,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),9808
+VERACRUZ DE IGNACIO DE LA LLAVE,Migratoria de invierno (MI); Transitoria (T),31508
+VERACRUZ DE IGNACIO DE LA LLAVE,Migratoria de invierno (MI); Transitoria (T); Oceánica (O),8
+VERACRUZ DE IGNACIO DE LA LLAVE,Migratoria de verano (MV),7200
+VERACRUZ DE IGNACIO DE LA LLAVE,Migratoria de verano (MV); Transitoria (T),17448
+VERACRUZ DE IGNACIO DE LA LLAVE,Residente (R),1360862
+VERACRUZ DE IGNACIO DE LA LLAVE,Residente (R); Migratoria de invierno (MI),402178
+VERACRUZ DE IGNACIO DE LA LLAVE,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),23742
+VERACRUZ DE IGNACIO DE LA LLAVE,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),32492
+VERACRUZ DE IGNACIO DE LA LLAVE,Residente (R); Migratoria de invierno (MI); Oceánica (O),8
+VERACRUZ DE IGNACIO DE LA LLAVE,Residente (R); Migratoria de invierno (MI); Transitoria (T),13348
+VERACRUZ DE IGNACIO DE LA LLAVE,Residente (R); Migratoria de verano (MV),25836
+VERACRUZ DE IGNACIO DE LA LLAVE,Residente (R); Oceánica (O),6
+VERACRUZ DE IGNACIO DE LA LLAVE,Residente (R); Transitoria (T),3362
+VERACRUZ DE IGNACIO DE LA LLAVE,Transitoria (T),23524
+VERACRUZ DE IGNACIO DE LA LLAVE,Transitoria (T); Oceánica (O),36
+YUCATAN,Accidental (A),130
+YUCATAN,Accidental (A); Oceánica (O),4
+YUCATAN,Migratoria de invierno (MI),154208
+YUCATAN,Migratoria de invierno (MI); Migratoria de verano (MV),15780
+YUCATAN,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),852
+YUCATAN,Migratoria de invierno (MI); Transitoria (T),14744
+YUCATAN,Migratoria de invierno (MI); Transitoria (T); Oceánica (O),48
+YUCATAN,Migratoria de verano (MV),2730
+YUCATAN,Migratoria de verano (MV); Transitoria (T),3408
+YUCATAN,Residente (R),857512
+YUCATAN,Residente (R); Migratoria de invierno (MI),275698
+YUCATAN,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),23696
+YUCATAN,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),17742
+YUCATAN,Residente (R); Migratoria de invierno (MI); Oceánica (O),20
+YUCATAN,Residente (R); Migratoria de invierno (MI); Transitoria (T),6286
+YUCATAN,Residente (R); Migratoria de verano (MV),23046
+YUCATAN,Residente (R); Transitoria (T),10236
+YUCATAN,Transitoria (T),6948
+YUCATAN,Transitoria (T); Oceánica (O),26
+ZACATECAS,Accidental (A),4
+ZACATECAS,Migratoria de invierno (MI),2992
+ZACATECAS,Migratoria de invierno (MI); Migratoria de verano (MV),146
+ZACATECAS,Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),36
+ZACATECAS,Migratoria de invierno (MI); Transitoria (T),108
+ZACATECAS,Migratoria de verano (MV),2
+ZACATECAS,Migratoria de verano (MV); Transitoria (T),138
+ZACATECAS,Residente (R),13646
+ZACATECAS,Residente (R); Migratoria de invierno (MI),10196
+ZACATECAS,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),926
+ZACATECAS,Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),414
+ZACATECAS,Residente (R); Migratoria de invierno (MI); Transitoria (T),78
+ZACATECAS,Residente (R); Migratoria de verano (MV),170
+ZACATECAS,Transitoria (T),56

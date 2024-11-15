@@ -1,0 +1,23 @@
+categoriaresidenciaaves,TOTAL_RECORD_CATRES_AVES,TOTAL_ESPECIES
+Residente (R),11584754,902
+Migratoria de invierno (MI),2515744,190
+Residente (R); Migratoria de invierno (MI),4990568,179
+Accidental (A),1736,55
+Transitoria (T),62784,33
+Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV),483164,31
+Migratoria de invierno (MI); Migratoria de verano (MV),317188,23
+Residente (R); Migratoria de verano (MV),276548,19
+Migratoria de invierno (MI); Transitoria (T),160924,19
+Accidental (A); Oceánica (O),398,18
+Transitoria (T); Oceánica (O),7546,15
+Migratoria de verano (MV); Transitoria (T),72192,13
+Residente (R); Oceánica (O),17340,12
+Migratoria de verano (MV),48870,7
+Residente (R); Transitoria (T); Oceánica (O),4232,6
+Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),47308,5
+Migratoria de invierno (MI); Oceánica (O),1138,4
+Residente (R); Migratoria de invierno (MI); Oceánica (O),3446,3
+Residente (R); Migratoria de invierno (MI); Transitoria (T),83392,2
+Residente (R); Transitoria (T),38010,2
+Residente (R); Migratoria de invierno (MI); Migratoria de verano (MV); Transitoria (T),262452,2
+Migratoria de invierno (MI); Transitoria (T); Oceánica (O),1558,2
